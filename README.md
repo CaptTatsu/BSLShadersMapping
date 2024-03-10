@@ -21,7 +21,7 @@ Mods listed below are currently not mapped yet but will be included (although no
 - If Minecraft is running, either exit to main menu, switch to another shaderpack, or disable shaders.
 - Click the green button named `Code`, then press Download ZIP.
 - Open the downloaded zip, then open the `BSLShadersMapping-main` directory.
-- Open the 'modded' directory to get the modded block ID file.
+- Open the `modded` directory to get the modded block ID file.
 - Open the shaderpack zip, then open the `shaders` directory.
 - Drag the block.properties file from BSLShadersLang zip to the shaderpack's zip.
 ## Contribution
