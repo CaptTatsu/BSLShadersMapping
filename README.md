@@ -1,5 +1,5 @@
 # BSLShadersMapping
-A collection block ID mapping files for BSL Shaders v8.0 and above.
+A collection block ID mapping files for BSL Shaders v8.2.08 and above.
 ## Mods Included
 Mods listed below have their block ID mapped in this project:
 - Adorn (mapped by CaptTatsu)
